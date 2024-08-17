@@ -123,7 +123,10 @@ export default function Resume() {
       </ul>
 
       {/* Link to download the resume as a PDF, opens in a new tab */}
-      <a href="/assets/resume/Resume-DishaKolapate.pdf" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://drive.google.com/file/d/1Jnz1VpsCX6WRKrnmCRKzAddjUD0PQQrs/view?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer">
         Download Resume
       </a>
     </section>
